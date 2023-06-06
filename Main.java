@@ -1,5 +1,7 @@
 package JogoDaVelha;
 
+// - código sem comentários.
+
 import java.util.Scanner;
 public class Main {
 
